@@ -1,1 +1,1 @@
-# Alike: A Web project that connects users based on their social media activity
+# Alike: Meet other like-minded users using your social media activity
