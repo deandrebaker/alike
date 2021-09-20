@@ -10,5 +10,5 @@ To use Alike, you can connect one or more social media accounts to your Alike ac
 Currently, you can connect your Twitter, Facebook, Instagram, Redit, and YouTube accounts. More may come later!
 
 ## Does give your data to other people?
-## NO!
+NO!  
 Alike will not store what content you've liked in its database, and it will not share the interests it determined from your liked content with other users unless you specify that you want other users to see one or more of your interests.
